@@ -135,5 +135,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to reach out if you have any questions or suggestions!
 
 ---
-
-This `README.md` provides detailed information for the HR Management System project without Storybook references, making it suitable for general users and contributors.
