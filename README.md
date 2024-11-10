@@ -54,8 +54,8 @@ Ensure you have the following software installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/hr-management-system.git
-   cd hr-management-system
+   git clone https://github.com/Fatumayattani/hr_management_system.git
+   cd hr_management_system
    ```
 
 2. **Install Dependencies**
