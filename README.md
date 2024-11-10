@@ -1,7 +1,3 @@
-Here's an updated `README.md` without Storybook:
-
----
-
 # HR Management System
 
 A comprehensive, open-source HR Management System built with React and TypeScript. This system helps organizations streamline employee management, leave requests, performance tracking, and more, while ensuring scalability and ease of use.
