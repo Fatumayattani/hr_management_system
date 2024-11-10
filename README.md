@@ -45,8 +45,8 @@ To set up a local copy of the project, follow these steps.
 
 Ensure you have the following software installed:
 
-- [Node.js](https://nodejs.org/) (version 14 or higher)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 
 ### Installation
