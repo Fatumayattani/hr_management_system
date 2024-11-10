@@ -71,7 +71,7 @@ Ensure you have the following software installed:
    ```plaintext
    MONGO_URI=your_mongodb_uri
    JWT_SECRET=your_jwt_secret
-   PORT=5000
+   PORT=5173
    ```
 
 4. **Start the Server**
@@ -125,9 +125,6 @@ If you encounter any issues, please open a GitHub Issue and provide as much deta
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-
-**Project Maintainer**: [Your Name](https://github.com/your-username)
-
 Feel free to reach out if you have any questions or suggestions!
 
 ---
